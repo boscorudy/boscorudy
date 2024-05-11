@@ -1,1 +1,1 @@
-ghcr.io/boscorudy/dockeuyyy:latest
+FROM ghcr.io/boscorudy/dockeuyyy:latest
